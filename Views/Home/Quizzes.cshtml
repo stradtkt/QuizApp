@@ -1,0 +1,25 @@
+﻿@{
+    ViewData["Title"] = "Quizzes";
+}
+@model Quizzes.Models.Quiz
+
+<div class="row mt-5 mb-5">
+    @foreach (var q in ViewBag.quizzes)
+    {
+        <div class="col-md-10 offset-1 mt-2">
+        <div class="card text-center">
+            <div class="card-header mt-2">
+                Questions: @q.Questions.Count
+            </div>
+            <div class="card-body">
+                <h4 class="card-title">@q.name</h4>
+                <p class="card-text">@q.desc</p>
+                <a href="#" class="btn btn-info btn-round">Start Quiz</a>
+            </div>
+            <div class="card-footer text-muted mb-2">
+                @q.created_at
+            </div>
+        </div>
+    </div>   
+    }
+</div>

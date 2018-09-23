@@ -1,0 +1,11 @@
+E:\csharp\KevinStradtman\Quizzes\bin\Debug\netcoreapp2.0\Quizzes.deps.json
+E:\csharp\KevinStradtman\Quizzes\bin\Debug\netcoreapp2.0\Quizzes.runtimeconfig.json
+E:\csharp\KevinStradtman\Quizzes\bin\Debug\netcoreapp2.0\Quizzes.runtimeconfig.dev.json
+E:\csharp\KevinStradtman\Quizzes\bin\Debug\netcoreapp2.0\Quizzes.dll
+E:\csharp\KevinStradtman\Quizzes\bin\Debug\netcoreapp2.0\Quizzes.pdb
+E:\csharp\KevinStradtman\Quizzes\obj\Debug\netcoreapp2.0\Quizzes.csprojResolveAssemblyReference.cache
+E:\csharp\KevinStradtman\Quizzes\obj\Debug\netcoreapp2.0\Quizzes.csproj.CoreCompileInputs.cache
+E:\csharp\KevinStradtman\Quizzes\obj\Debug\netcoreapp2.0\Quizzes.AssemblyInfoInputs.cache
+E:\csharp\KevinStradtman\Quizzes\obj\Debug\netcoreapp2.0\Quizzes.AssemblyInfo.cs
+E:\csharp\KevinStradtman\Quizzes\obj\Debug\netcoreapp2.0\Quizzes.dll
+E:\csharp\KevinStradtman\Quizzes\obj\Debug\netcoreapp2.0\Quizzes.pdb
